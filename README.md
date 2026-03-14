@@ -1,4 +1,4 @@
-# Day-27 : Project 4 - Task Management App 🍵❤️‍🔥
+Task Management App 🍵❤️‍🔥
 
 ## Tasks | Activities 🌟
 
